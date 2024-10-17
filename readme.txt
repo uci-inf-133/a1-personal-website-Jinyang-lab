@@ -15,7 +15,7 @@ Talking to classmates about class material, assignment requirements, etc. is a g
 - 2/2 Basic HTML content
 - 2/2 Basic CSS styling
 - 2/2 Advanced feature
-- */3 Responsive layout
+- 3/3 Responsive layout
 - */1 Passes validation checks
 - 2/2 Embraces spirit of the assignment
 
@@ -40,6 +40,8 @@ It took me about 6 hours to do this.
 4. What online resources did you consult when completing this assignment? (list specific URLs)
 I referred to this blog for changing the font.
 https://velog.io/@jennayeo/html-css-%ED%8F%B0%ED%8A%B8-%EB%B3%80%EA%B2%BD%ED%95%98%EA%B8%B0
+I referred to this site for the responsive layout.
+https://developer.mozilla.org/ko/docs/Learn/CSS/CSS_layout/Responsive_Design
 I also referred to this site to display text when using the select tag.
 https://www.phpschool.com/gnuboard4/bbs/board.php?bo_table=qna_html&wr_id=156772
 
