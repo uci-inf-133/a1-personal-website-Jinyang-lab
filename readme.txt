@@ -10,11 +10,11 @@ Talking to classmates about class material, assignment requirements, etc. is a g
 
 1. How many assignment points do you believe you completed (replace the *'s with your numbers)?
 
-13/13
+12/13
 - 1/1 Readme
 - 2/2 Basic HTML content
 - 2/2 Basic CSS styling
-- 2/2 Advanced feature
+- 1/2 Advanced feature
 - 3/3 Responsive layout
 - 1/1 Passes validation checks
 - 2/2 Embraces spirit of the assignment
@@ -24,6 +24,7 @@ Talking to classmates about class material, assignment requirements, etc. is a g
 (a) Basic features
 Creating buttons.
 Inserting images.
+Providing a URL and linking to the page.
 
 (b) CSS features
 Coloring the background.
@@ -32,8 +33,6 @@ Creating a backgorund layout and shadowing it.
 
 (c) Advanced features
 Text appearing when selecting.
-Providing a URL and linking to the page.
-Creating several responsive layouts.
 
 3. How long, in hours, did it take you to complete this assignment?
 It took me about 6 hours to do this.
